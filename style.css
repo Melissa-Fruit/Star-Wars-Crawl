@@ -1,0 +1,28 @@
+body{
+  background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_960_720.png);
+}
+h1{
+  color: blue;
+  font-size: 700%;
+  text-align: center;
+}
+p {color: blue;
+  font-size: 500%;
+  font-weight: bold;
+  text-align: center;
+  line-height: 200%;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+section{
+  display: flex;
+  justify-content: center;
+  height: 600px;
+  perspective: 400px;
+
+}
